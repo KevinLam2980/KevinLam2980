@@ -4,7 +4,7 @@ I'm Kevin! I am a full stack web developer. I love playing with algorithms, desi
 
 Email: kev2980@gmail.com
 
-Portfolio: www.kevthedev.com
+Portfolio: www.kevinthedev.com
 
 ```javascript
 const aboutMe = {
