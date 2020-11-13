@@ -3,7 +3,7 @@
 I'm Kevin! I am a full stack web developer. I love playing with algorithms, desigining front end UI, and building back end APIs. 
 
 Email: kev2980@gmail.com
-Portfolio: (kevthedev.com)[www.kevthedev.com]
+Portfolio: www.kevthedev.com
 
 ```javascript
 const aboutMe = {
