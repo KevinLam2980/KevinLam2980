@@ -6,7 +6,7 @@ I'm Kevin! I am a full stack web developer. I love playing with algorithms and t
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python, Java],
+   code: ["Javascript", "HTML", "CSS", "Python", "Java"],
    technologies: {
       frontEnd: {
          js: ["React"],
