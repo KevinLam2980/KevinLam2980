@@ -1,6 +1,6 @@
 ### Hello there! 👨🏻‍💻 👋🏽
 
-I'm Kevin! I am a full stack web developer. I love playing with algorithms and trying to get them as efficient as I can, desigining front end UI, and building back end APIs. 
+I'm Kevin! I am a full stack web developer. I love playing with algorithms, desigining front end UI, and building back end APIs. 
 
 
 ```javascript
