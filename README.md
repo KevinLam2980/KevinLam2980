@@ -8,7 +8,7 @@ Portfolio: www.kevinthedev.com
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
+   pronouns: "he" || "him",
    code: ["Javascript", "HTML", "CSS", "Python", "Java"],
    technologies: {
       frontEnd: {
