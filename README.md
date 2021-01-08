@@ -12,16 +12,18 @@ const aboutMe = {
    code: ["Javascript", "HTML", "CSS", "Python", "Java"],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: ["React", "Vue", "Bootstrap", "jQuery"],
          css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI", "SASS", "LESS", "Styled-Components"]
       },
       backEnd: {
          java: ["Spring"],
          js: ["Node", "Express"],
+         cloud: ["Firebase"]
       },
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
    },
    currentOccupation: ["Open for job opportunities"],
+   currentLearningObjectives: ["Vue", "Angular", "Next.js", "Django", "AWS"]
 };
 ```
 
