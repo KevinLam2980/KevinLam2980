@@ -1,6 +1,7 @@
 ### Hello there! 👨🏻‍💻 👋🏽
 
-I'm Kevin! I am a full stack web developer. I love playing with algorithms, desigining front end UI, and building back end APIs. 
+I'm Kevin! I am a full stack web developer. I am passionate about crafting clear, beautiful, and inviting user orientated front end UI. I love to explore new and interesting technologies for both the front and back end. Currently I am dipping my toes by building a full stack e-commerce web application utilizing 
+Vue.js, Bootstrap, Firebase, and Stripe.
 
 Email: kev2980@gmail.com
 
